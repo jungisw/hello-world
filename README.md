@@ -6,6 +6,18 @@ markdown language를 쓴다.
 ## 작은 제목
 ### 더 작은 제목
 # 개발자 소개
+|제목|내용|설명|
+|------|---|---|
+|이름|황준기|   |
+|기술|Frontend |html, css, js, kotlin|
+|    |Backend  |django, flask|
+|    |Database |Oracle|
+
+
+
+
+
+
 # 작품1 - django framework 활용 게시판 만들기
 ### 설계도
 <img src ="archi.jpg"/>
