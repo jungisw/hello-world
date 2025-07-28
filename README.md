@@ -14,8 +14,8 @@ markdown language를 쓴다.
 ### 시연동영상
 <iframe width="500" height="300" src="https://www.youtube.com/embed/P5eFbRSqy7E?list=RDP5eFbRSqy7E" title="[𝑷𝒍𝒂𝒚𝒍𝒊𝒔𝒕] 새벽감성 인디 플레이리스트 🎧 | 검정치마, 최유리, 카더가든, 데이먼스이어, 허회경, 10CM 플리" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ### reference
-[네이버](https://www.naver.com)
-[구글](https://www.google.com)
+1. [네이버](https://www.naver.com) <br>
+2. [구글](https://www.google.com) <br>
 #사진
 동영상
 link 생성
